@@ -132,6 +132,12 @@ cursor:pointer;
 .light-mode .navbar .nav-link:hover{
   color:#38bdf8;         
 }
+.light-mode #project{
+background-color:white;
+}
+.light-mode .colors {
+color:white;
+}
 .light-mode .card{
   background:#ffffff;
   color:#000000;          
